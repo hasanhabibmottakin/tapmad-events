@@ -1,0 +1,43 @@
+name: Update Live Playlist
+
+on:
+  schedule:
+    - cron: '* * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Extract main.zip safely
+        env:
+          ZIP_PASS: ${{ secrets.ZIP_PASS }}
+        run: |
+          sudo apt-get install -y p7zip-full
+          7z x -p"$ZIP_PASS" main.zip -y
+
+      - name: Run Python Script
+        run: python main.py
+
+      - name: Remove Extracted Script
+        run: rm main.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add live.m3u
+          git commit -m "Updated live playlist" || echo "No changes to commit"
+          git push

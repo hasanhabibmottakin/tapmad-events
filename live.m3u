@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Premium",Islamabad United vs Hyderabad Kingsmen Live
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E2-W3o5r7l9d_Feed/master.m3u8
 #EXTINF:-1 group-title="Live Premium",Leeds United vs Burnley
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777665269~acl=/hls/*~hmac=050215efa7758bc168b97a307fbf14dec8340747815487e4adff6e0efa1d7e2a
 #EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge - Qualifying Rounds Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge Race 1 Live

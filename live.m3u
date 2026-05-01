@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Islamabad United vs Hyderabad Kingsmen Live
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777653009~acl=/hls/*~hmac=b856dce6d4b7cb1e4876adf10ef3c0edcd386a7d616bb874e704ade8c874454d
-#EXTINF:-1,FA Cup Final - Road To The Final - A Live
+#EXTINF:-1 group-title="Live Premium",Islamabad United vs Hyderabad Kingsmen Live
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-E2-W3o5r7l9d_Feed/master.m3u8
+#EXTINF:-1 group-title="Live Premium",FA Cup Final - Road To The Final - A Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,FA Cup Final - Road To The Final - B Live
+#EXTINF:-1 group-title="Upcoming Sports Premium",FA Cup Final - Road To The Final - B Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Leeds United vs Burnley
+#EXTINF:-1 group-title="Upcoming Sports Premium",Leeds United vs Burnley
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,GT World Challenge - Qualifying Rounds Live
+#EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge - Qualifying Rounds Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,GT World Challenge Race 1 Live
+#EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge Race 1 Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Bangladesh vs New Zealand Live
+#EXTINF:-1 group-title="Upcoming Sports Premium",Bangladesh vs New Zealand Live
 https://vodintlv2.in-maa-1.linodeobjects.com/promos/cricket/BANvsNEW/master.m3u8
-#EXTINF:-1,Della Maddalena vs Prates
+#EXTINF:-1 group-title="Upcoming Sports Premium",Della Maddalena vs Prates
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Eintracht Frankfurt vs Hamburger SV
+#EXTINF:-1 group-title="Upcoming Sports Premium",Eintracht Frankfurt vs Hamburger SV
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Hoffenheim vs VfB Stuttgart
+#EXTINF:-1 group-title="Upcoming Sports Premium",Hoffenheim vs VfB Stuttgart
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Bayern vs Heidenheim
+#EXTINF:-1 group-title="Upcoming Sports Premium",Bayern vs Heidenheim
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Werder vs Augsburg
+#EXTINF:-1 group-title="Upcoming Sports Premium",Werder vs Augsburg
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Union Berlin vs Koln
+#EXTINF:-1 group-title="Upcoming Sports Premium",Union Berlin vs Koln
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Brentford vs West Ham
+#EXTINF:-1 group-title="Upcoming Sports Premium",Brentford vs West Ham
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Wolves vs Sunderland
+#EXTINF:-1 group-title="Upcoming Sports Premium",Wolves vs Sunderland
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Newcastle vs Brighton
+#EXTINF:-1 group-title="Upcoming Sports Premium",Newcastle vs Brighton
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Leverkusen vs RB Leipzig
+#EXTINF:-1 group-title="Upcoming Sports Premium",Leverkusen vs RB Leipzig
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Arsenal vs Fulham
+#EXTINF:-1 group-title="Upcoming Sports Premium",Arsenal vs Fulham
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1,Storley vs Zendeli - Global 6
+#EXTINF:-1 group-title="Upcoming Sports Premium",Storley vs Zendeli - Global 6
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8

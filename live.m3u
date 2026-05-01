@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Premium",Leeds United vs Burnley
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777668505~acl=/hls/*~hmac=9b2e88f01a51937f85242a0de992e62bb397442dae564fffe3af31b2fad17e1b
 #EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge - Qualifying Rounds Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge Race 1 Live

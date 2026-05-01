@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.tapmad.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tapmad_Logo.png/800px-Tapmad_Logo.png" alt="🔥 Tapmad Live 🔥" width="200"></a>
+  <a href="https://www.tapmad.com/"><img src="https://d34080pnh6e62j.cloudfront.net/images/VideoOnDemandThumb/1648210285NewTapmadLogo-01@2x.png" alt="🔥 Tapmad Live 🔥" width="200"></a>
   <br>
   🔥 Tapmad Live Events Updater 🔥
   <br>

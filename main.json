@@ -6,16 +6,6 @@
     },
     {
         "category": "Live Premium",
-        "title": "FA Cup Final - Road To The Final - A Live",
-        "url": "/watch/fa-cup-final-road-to-the-final-a-live/1132121"
-    },
-    {
-        "category": "Live Premium",
-        "title": "FA Cup Final - Road To The Final - B Live",
-        "url": "/watch/fa-cup-final-road-to-the-final-b-live/1132131"
-    },
-    {
-        "category": "Upcoming Sports Premium",
         "title": "Leeds United vs Burnley",
         "url": "/watch/leeds-united-vs-burnley-live-epl-2025/1130111"
     },
@@ -98,5 +88,10 @@
         "category": "Upcoming Sports Premium",
         "title": "GT World Challenge Race 2 Live",
         "url": "/watch/gt-world-challenge-eu-asia-2026-gt-world-challenge-race-2-live/1130681"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Bournemouth vs Crystal Palace",
+        "url": "/watch/bournemouth-vs-crystal-palace-live-epl-2025/1130161"
     }
 ]

@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Premium",Eintracht Frankfurt vs Hamburger SV
+#EXTINF:-1 group-title="Live Premium",Leverkusen vs RB Leipzig
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
-#EXTINF:-1 group-title="Live Premium",Hoffenheim vs VfB Stuttgart
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_Eliminator2-uRu/master.m3u8
-#EXTINF:-1 group-title="Live Premium",Bayern vs Heidenheim
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1777736706~acl=/hls/*~hmac=f0de2ab57213493ab534120a2094ea3e5b7d743a1a882bcea8489c90f31d1d33
-#EXTINF:-1 group-title="Live Premium",Werder vs Augsburg
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 group-title="Live Premium",Union Berlin vs Koln
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_eNg-Eliminator2/master.m3u8
-#EXTINF:-1 group-title="Live Premium",Brentford vs West Ham
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1777736706~acl=/hls/*~hmac=a845ad7057561ac3ae387fbc8c09f31fb7aeddb8266b6257bf2030818225219f
-#EXTINF:-1 group-title="Live Premium",Wolves vs Sunderland
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1777736706~acl=/hls/*~hmac=a845ad7057561ac3ae387fbc8c09f31fb7aeddb8266b6257bf2030818225219f
-#EXTINF:-1 group-title="Live Premium",Newcastle vs Brighton
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777736706~acl=/hls/*~hmac=a845ad7057561ac3ae387fbc8c09f31fb7aeddb8266b6257bf2030818225219f
-#EXTINF:-1 group-title="Upcoming Sports Premium",Leverkusen vs RB Leipzig
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-#EXTINF:-1 group-title="Upcoming Sports Premium",Arsenal vs Fulham
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+#EXTINF:-1 group-title="Live Premium",Arsenal vs Fulham
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777740062~acl=/hls/*~hmac=74a03018b34d74c8f61f19a775b14be5d7cbd5f4104c95971c23b26077e8a26a
 #EXTINF:-1 group-title="Upcoming Sports Premium",Storley vs Zendeli - Global 6
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge Race 2 Live

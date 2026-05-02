@@ -1,51 +1,46 @@
 [
     {
         "category": "Live Premium",
-        "title": "Bangladesh vs New Zealand Live",
-        "url": "/watch/bangladeshvs-new-zealand-3rd-t20-live/1127191"
-    },
-    {
-        "category": "Live Premium",
         "title": "Della Maddalena vs Prates",
         "url": "/watch/ufc-fight-night-della-maddalena-vs-prates-live/1129901"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Eintracht Frankfurt vs Hamburger SV",
         "url": "/watch/eintracht-frankfurt-vs-hamburger-sv-live/1129621"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Hoffenheim vs VfB Stuttgart",
         "url": "/watch/hoffenheim-vs-vfb-stuttgart-live/1129631"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Bayern vs Heidenheim",
         "url": "/watch/bayern-vs-heidenheim-live/1129641"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Werder vs Augsburg",
         "url": "/watch/werder-vs-augsburg-live/1129651"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Union Berlin vs Koln",
         "url": "/watch/union-berlin-vs-koln-live/1129661"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Brentford vs West Ham",
         "url": "/watch/brentford-vs-west-ham-live-epl-2025/1130121"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Wolves vs Sunderland",
         "url": "/watch/wolves-vs-sunderland-live-epl-2025/1130131"
     },
     {
-        "category": "Upcoming Sports Premium",
+        "category": "Live Premium",
         "title": "Newcastle vs Brighton",
         "url": "/watch/newcastle-vs-brighton-live-epl-2025/1130141"
     },
@@ -93,5 +88,30 @@
         "category": "Upcoming Sports Premium",
         "title": "SC Freiburg vs Wolfsburg",
         "url": "/watch/sc-freiburg-vs-wolfsburg-live/1129701"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Aston Villa vs Tottenham",
+        "url": "/watch/aston-villa-vs-tottenham-live-epl-2025/1130181"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Chelsea vs Nottm Forest",
+        "url": "/watch/chelsea-vs-nottm-forest-live-epl-2025/1130191"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Everton vs Man City",
+        "url": "/watch/everton-vs-man-city-live-epl-2025/1130201"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Arsenal vs Atletico Madrid",
+        "url": "/watch/arsenal-vs-atletico-madrid-ucl-live-match/1127671"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Bayern vs PSG",
+        "url": "/watch/bayern-vs-psg-ucl-live-match/1127681"
     }
 ]

@@ -2,12 +2,14 @@
 #EXTINF:-1 group-title="Live Premium",Leverkusen vs RB Leipzig
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad48475-ENC301/master.m3u8
 #EXTINF:-1 group-title="Live Premium",Arsenal vs Fulham
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777740062~acl=/hls/*~hmac=74a03018b34d74c8f61f19a775b14be5d7cbd5f4104c95971c23b26077e8a26a
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1777743580~acl=/hls/*~hmac=4878530f94cd53247332b085dca9535c134a1eecd38125eebba1604d505205be
 #EXTINF:-1 group-title="Upcoming Sports Premium",Storley vs Zendeli - Global 6
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",GT World Challenge Race 2 Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",Bournemouth vs Crystal Palace
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+#EXTINF:-1 group-title="Upcoming Sports Premium",Peshawar Zalmi vs Hyderabad Kingsmen Live
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",FC St. Pauli vs Mainz
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8

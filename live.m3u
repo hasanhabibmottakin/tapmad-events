@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Live Premium",Bangladesh vs New Zealand Live
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1777714567~acl=/hls/*~hmac=fa744e1aa9b27e45c00b8e9e4721546c494809b1c92b2a57c49e33b0d1b15137
-#EXTINF:-1 group-title="Upcoming Sports Premium",Della Maddalena vs Prates
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777714567~acl=/hls/*~hmac=fa744e1aa9b27e45c00b8e9e4721546c494809b1c92b2a57c49e33b0d1b15137
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+#EXTINF:-1 group-title="Live Premium",Della Maddalena vs Prates
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1777718463~acl=/hls/*~hmac=4dc685004ce6c8153a72ef7dcaee2bbe97528992c0bd0a7b9e87e13136dbba04
 #EXTINF:-1 group-title="Upcoming Sports Premium",Eintracht Frankfurt vs Hamburger SV
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",Hoffenheim vs VfB Stuttgart
@@ -34,4 +34,6 @@ https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",Man United vs Liverpool
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 #EXTINF:-1 group-title="Upcoming Sports Premium",Monchengladbach vs Dortmund
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+#EXTINF:-1 group-title="Upcoming Sports Premium",SC Freiburg vs Wolfsburg
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8

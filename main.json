@@ -1,11 +1,6 @@
 [
     {
         "category": "Live Premium",
-        "title": "GT World Challenge Race 1 Live",
-        "url": "/watch/gt-world-challenge-eu-asia-2026-gt-world-challenge-race-1-live/1130621"
-    },
-    {
-        "category": "Upcoming Sports Premium",
         "title": "Bangladesh vs New Zealand Live",
         "url": "/watch/bangladeshvs-new-zealand-3rd-t20-live/1127191"
     },
@@ -88,5 +83,10 @@
         "category": "Upcoming Sports Premium",
         "title": "Man United vs Liverpool",
         "url": "/watch/man-united-vs-liverpool-live-epl-2025/1130171"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Monchengladbach vs Dortmund",
+        "url": "/watch/monchengladbach-vs-dortmund-live/1129691"
     }
 ]

@@ -1,11 +1,6 @@
 [
     {
         "category": "Live Premium",
-        "title": "GT World Challenge - Qualifying Rounds Live",
-        "url": "/watch/gt-world-challenge-eu-asia-2026-gt-world-challenge-qualifying-rounds-live/1130561"
-    },
-    {
-        "category": "Upcoming Sports Premium",
         "title": "GT World Challenge Race 1 Live",
         "url": "/watch/gt-world-challenge-eu-asia-2026-gt-world-challenge-race-1-live/1130621"
     },
@@ -88,5 +83,10 @@
         "category": "Upcoming Sports Premium",
         "title": "FC St. Pauli vs Mainz",
         "url": "/watch/fc-st-pauli-vs-mainz-live/1129681"
+    },
+    {
+        "category": "Upcoming Sports Premium",
+        "title": "Man United vs Liverpool",
+        "url": "/watch/man-united-vs-liverpool-live-epl-2025/1130171"
     }
 ]
